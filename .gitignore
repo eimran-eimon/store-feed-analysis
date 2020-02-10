@@ -1,4 +1,6 @@
-.*jpg
-.*mp4
+*.jpg
+*.mp4
+*.avi
 /output_frames/
 /output/
+/videos/
